@@ -23,12 +23,11 @@ namespace Mini_project___hangman
             private string copyCurrent = "";
             private string[] words;
             private string lblShowWord;
-            //string Text;
             private string filePath = @"C:\Mini_project-hangman\Mini_project-hangman\bin\Debug\words.csv";
 
 
         /*  
-         private static readonly string[] Words = new string[] { "computer", "programmer", "software", "debugger", "compiler",
+         private static readOnly string[] Words = new string[] { "computer", "programmer", "software", "debugger", "compiler",
          "developer", "algorithm", "array", "method", "variable"}; */
 
         public Form1()
@@ -98,7 +97,7 @@ namespace Mini_project___hangman
             }
             else 
             {
-                labelResult.Text = "You Lose!";
+                labelResult.Text = "You Lost!";
             }
 
         }
