@@ -23,11 +23,11 @@ namespace Mini_project___hangman
             private string copyCurrent = "";
             private string[] words;
             private string lblShowWord;
-            string Text;
+            //string Text;
             private string filePath = @"C:\Mini_project-hangman\Mini_project-hangman\bin\Debug\words.csv";
 
 
-        /*  private static Scoreboard scoreboard = new Scoreboard();
+        /*  
          private static readonly string[] Words = new string[] { "computer", "programmer", "software", "debugger", "compiler",
          "developer", "algorithm", "array", "method", "variable"}; */
 

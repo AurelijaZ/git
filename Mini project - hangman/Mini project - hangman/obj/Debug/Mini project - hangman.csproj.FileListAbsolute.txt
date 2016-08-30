@@ -16,3 +16,6 @@ C:\Users\PC\Desktop\Mini project - hangman\Mini project - hangman\obj\Debug\Mini
 C:\Users\PC\Desktop\Mini project - hangman\Mini project - hangman\obj\Debug\Mini_project___hangman.Form1.resources
 C:\Users\PC\Desktop\Mini project - hangman\Mini project - hangman\obj\Debug\Mini_project___hangman.Properties.Resources.resources
 C:\Users\PC\Desktop\Mini project - hangman\Mini project - hangman\obj\Debug\Mini project - hangman.csproj.GenerateResource.Cache
+C:\Users\PC\Desktop\git\git\Mini project - hangman\Mini project - hangman\bin\Debug\Mini project - hangman.exe.config
+C:\Users\PC\Desktop\git\git\Mini project - hangman\Mini project - hangman\obj\Debug\Mini project - hangman.exe
+C:\Users\PC\Desktop\git\git\Mini project - hangman\Mini project - hangman\obj\Debug\Mini project - hangman.pdb
